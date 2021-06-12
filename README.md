@@ -1,2 +1,2 @@
-# cousera-test
-cousera test 
+# coursera-test
+coursera test 
